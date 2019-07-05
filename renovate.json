@@ -2,6 +2,9 @@
   "extends": [
     "config:base"
   ],
+  "enabledManagers": [
+    "npm"
+  ],
   "vulnerabilityAlerts": {
     "labels": ["security"],
     "assignees": ["@azu"]
