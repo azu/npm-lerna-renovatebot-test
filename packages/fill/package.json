@@ -45,7 +45,6 @@
     "typescript": "^2.3.4"
   },
   "dependencies": {
-    "tar": "^3.2.1",
     "@immutable-array/internal": "^1.0.4"
   }
 }
