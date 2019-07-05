@@ -50,13 +50,13 @@
   "devDependencies": {
     "@types/jest": "^22.2.0",
     "@types/node": "^9.4.7",
-    "cross-env": "^5.1.4",
-    "husky": "^0.14.3",
-    "jest": "^22.4.3",
-    "lerna": "^2.9.0",
-    "lint-staged": "^7.0.0",
-    "prettier": "^1.11.1",
-    "ts-jest": "^22.4.2",
-    "typescript": "^2.7.2"
+    "cross-env": "5.1.4",
+    "husky": "0.14.3",
+    "jest": "22.4.3",
+    "lerna": "2.9.0",
+    "lint-staged": "7.0.0",
+    "prettier": "1.11.1",
+    "ts-jest": "22.4.2",
+    "typescript": "2.7.2"
   }
 }
