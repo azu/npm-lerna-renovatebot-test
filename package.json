@@ -15,9 +15,6 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build"
   },
-  "workspaces": [
-    "packages/*"
-  ],
   "lint-staged": {
     "**/*.{ts,tsx}": [
       "prettier --write",
