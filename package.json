@@ -44,8 +44,8 @@
   },
   "homepage": "https://github.com/azu/immutable-array-prototype",
   "devDependencies": {
-    "@types/jest": "^22.2.0",
-    "@types/node": "^9.4.7",
+    "@types/jest": "22.2.3",
+    "@types/node": "9.6.49",
     "cross-env": "5.1.4",
     "husky": "0.14.3",
     "jest": "22.4.3",
